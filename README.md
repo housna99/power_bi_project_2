@@ -1,8 +1,22 @@
 # power_bi_project_2
 
-1.	Analyser la dataset et réaliser un tableau de bord sous Power BI qui va permettre de répondre à différentes questions spécifiques :
-  Quel est le genre qui a plus de ventes pendant ces dernières années ?
-  Quelles sont les plateformes qui ont le plus de revenues ?
-  Combien de genres nous disposons dans notre dataset ?
-  Qu’est ce qui fait qu’un éditeur a plus de revenue qu’un autre ?
-2.	Adapter le tableau de bord pour la partie mobile.
+#challenge 1:
+1.	Analyze the dataset and make a dashboard in Power BI that gives a general idea of the different names of the births, which are the most used names and the percentage of the births by sex. Any additional information can be added.
+2. data : First names of newborns in Strasbourg - Strasbourg Open Data Portal
+#challenge 2
+1.	Analyze the dataset and make a dashboard in Power BI that will answer different specific questions:
+  What is the genre that has more sales during the last years?
+  Which platforms have the most revenue?
+  How many genres do we have in our dataset?
+  What makes one publisher have more revenue than another?
+2.	Adapt the dashboard for the mobile part.
+3. data: https://www.kaggle.com/gregorut/videogamesales
+
+#challenge 3 :
+1.	Analyze the dataset more deeply by trying to answer the question: 
+    What are the most important elements that facilitate a team's success against the opposing team?
+    Answer other questions that need to be specific.
+2.	Adapt the dashboard for the mobile part.
+3. data: https://www.kaggle.com/datasnaek/league-of-legends
+
+
